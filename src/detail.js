@@ -71,6 +71,6 @@ function TabChange(props){
     
     if(props.tabNo==0){return(<div className={"start "+fade}>내용0</div>)}
     if(props.tabNo==1){return(<div className={"start "+fade}>내용1</div>)}
-    if(props.tabNo==2){return(<div className={"start "+fade}>내용2</div>)}
+    if(props.tabNo==2){return(<div className={"start "+fade}>내용2</div>)} aaaaa
 }
 export default Detail ;
